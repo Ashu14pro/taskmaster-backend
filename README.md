@@ -8,7 +8,7 @@ TaskMaster is a backend application that helps users:
 * Login securely
 * Create and manage tasks
 * Assign tasks to users
-* Work in teams
+* Work in team
 
 This project is built using **Node.js, Express, and MongoDB**.
 
